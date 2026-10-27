@@ -1,0 +1,6 @@
+{
+  "name": "Nails by Love | NE Calgary",
+  "description": "Private nail studio in NE Calgary specializing in GelX, BIAB, and Shellac. Contact via Instagram DM with inspiration photos for pricing and appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
